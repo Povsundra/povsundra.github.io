@@ -1,11 +1,57 @@
 <script>
-// Override the greedy navigation updateNav function BEFORE main.min.js loads
-var updateNav = function() {};
-// Also override the window.updateNav in case it's called
+// Prevent the greedy navigation from moving items
+// We'll use a MutationObserver to watch for items being moved to hidden-links
+// and move them back to visible-links
+var observerActive = false;
+
+function setupNavigationObserver() {
+  if (observerActive) return;
+  observerActive = true;
+  
+  var hlinks = document.querySelector('.hidden-links');
+  if (!hlinks) return;
+  
+  var observer = new MutationObserver(function(mutations) {
+    // Move any items that were added to hidden-links back to visible-links
+    var vlinks = document.querySelector('.visible-links');
+    if (vlinks && hlinks && hlinks.children.length > 0) {
+      while (hlinks.firstChild) {
+        vlinks.appendChild(hlinks.firstChild);
+      }
+    }
+    
+    // Hide the button
+    var btn = document.querySelector('#site-nav button');
+    if (btn) {
+      btn.style.display = 'none';
+      btn.style.visibility = 'hidden';
+    }
+  });
+  
+  observer.observe(hlinks, {
+    childList: true,
+    subtree: true
+  });
+}
+
+// Set up the observer when the DOM is ready
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', setupNavigationObserver);
+} else {
+  setupNavigationObserver();
+}
+
+// Also override the updateNav function
 window.updateNav = function() {};
+
+// Add a small delay to override after main.min.js loads
+setTimeout(function() {
+  window.updateNav = function() {};
+  setupNavigationObserver();
+}, 100);
 </script>
 
-<script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
+<script src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
 
