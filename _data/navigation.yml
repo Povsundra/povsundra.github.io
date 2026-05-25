@@ -12,3 +12,9 @@ main:
     url: /
   - title: "Portfolio"
     url: /portfolio/
+  - title: "CV"
+    url: /cv/
+  - title: "Certifications"
+    url: /certifications/
+  - title: "Activities"
+    url: /activities/

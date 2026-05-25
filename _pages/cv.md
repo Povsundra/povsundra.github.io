@@ -11,54 +11,74 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.Eng. in Data Science** – Institute of Technology of Cambodia, 2022 – Present (Expected July 2026)
+  * Department of Applied Mathematics and Statistics
+  * Relevant Coursework: Exploratory Data Analysis, Machine Learning, Deep Learning, Time Series Analysis, Data Visualization, Natural Language Processing, Database Design, Business Intelligence
 
-Work experience
+Certifications
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Machine Learning Specialization (Coursera)
+* Google Data Analytics Professional Certificate
+* Google Advanced Data Analytics Professional Certificate
+* Meta Data Analyst Professional Certificate
+* Data Science Camp by Handong Global University
+* Industry Professional Credentials Track (STIC)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work Experience
+======
+* **Feb 2026 – Present: Data Science and AI Intern**
+  * General Department of Customs and Excise of Cambodia (GCDE)
+  * Duties included:
+    * Developed Optical Character Recognition (OCR) solutions for trade documents
+    * Conducted evaluation of multiple OCR frameworks (GLM-OCR, Qwen-3-4B, Docling, PaddleOCR, Marker)
+    * Assessed model performance across diverse document types (invoices, bills of lading, airway bills)
+    * Implemented and tested self-hosted deployments using Ollama and vLLM
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **2025: Research Intern**
+  * Institute of Digital Research and Innovation (IDRI), CADT
+  * Duties included:
+    * Fine-tuned Qwen3 4B-parameter LLM using LoRA and 4-bit quantization
+    * Processed tax-related Q&A dataset (1,690 pairs) from GDT website PDFs
+    * Successfully deployed model with minimal resources (Tesla T4 on Google Colab)
 
-Publications
+* **Aug – Sep 2024: Data Annotation Intern**
+  * Ministry of Post and Telecommunications, CADT
+  * Duties included:
+    * Processed video data using ffmpeg framework in Python
+    * Performed text segmentation for Khmer ASR model training
+
+Technical Skills
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Programming Languages:** Python, R, SQL
+* **Data Science & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Power BI, Excel
+* **Machine Learning Frameworks:** Scikit-learn, PyTorch, TensorFlow
+
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **Machine Learning Project** (2024-Present)
+  * Predictive modeling and analysis
+* **Data Analysis Project** (2024-Present)
+  * Exploratory data analysis and visualization
+* **Deep Learning Project** (2024-Present)
+  * Neural network implementation
+* **NLP Project** (2024-Present)
+  * Natural language processing application
+
+Languages
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Khmer:** Native speaker
+* **English:** Intermediate
+
+Soft Skills
 ======
-* Currently signed in to 43 different slack teams
+* Time Management, Communication, Teamwork
+* Negotiation, Adaptability, Presentation
+* Critical Thinking, Problem Solving, Resilience
+
+Leadership
+======
+* **Student Representative** – Institute of Technology of Cambodia
+
+References
+======
+* Available upon request
