@@ -51,14 +51,19 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: flex !important;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
   }
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color);
-  display: block;
+  background-color: transparent;
+  display: flex !important;
   list-style-type: none;
   white-space: nowrap;
+  flex-shrink: 0;
 
   &--lg {
     padding-right: 2em;

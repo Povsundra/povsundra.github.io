@@ -174,8 +174,11 @@
 
 .greedy-nav {
   position: relative;
-  min-width: 250px;
+  min-width: 100%;
   background: var(--global-bg-color);
+  display: flex !important;
+  flex-wrap: wrap;
+  align-items: center;
 
   a {
     display: block;
@@ -190,29 +193,30 @@
   }
 
   button {
-    position: absolute;
-    height: 2.5rem;
-    right: 0;
-    padding: 0 0.5rem;
-    border: 0;
-    outline: none;
-    background-color: var(--global-bg-color);
-    color: var(--global-text-color);
-    cursor: pointer;
-    z-index: 100;
-    display: none; /* Hide hamburger button */
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    padding: 0 !important;
   }
 
   .visible-links {
-    display: flex;
+    display: flex !important;
     flex-wrap: wrap;
     align-items: center;
     width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
 
     li {
-      display: flex;
+      display: flex !important;
+      flex-shrink: 0;
       vertical-align: middle;
       white-space: nowrap;
+      background-color: transparent !important;
+      list-style-type: none !important;
+      padding: 0 !important;
+      margin: 0 !important;
 
       &:first-child {
         font-weight: bold;
@@ -234,7 +238,7 @@
     #theme-toggle {
       a {
         width: 25px;
-        display: flex;
+        display: flex !important;
         justify-content: center;
         cursor: pointer;
       }
@@ -242,6 +246,8 @@
 
     a {
       position: relative;
+      display: block !important;
+      margin: 0 1rem !important;
 
       &:before {
         content: "";
@@ -267,7 +273,7 @@
   }
 
   .hidden-links {
-    display: none !important; /* Always hide dropdown */
+    display: none !important;
 
     a {
       margin: 0;
