@@ -1,3 +1,10 @@
+<script>
+// Override the greedy navigation updateNav function BEFORE main.min.js loads
+var updateNav = function() {};
+// Also override the window.updateNav in case it's called
+window.updateNav = function() {};
+</script>
+
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
