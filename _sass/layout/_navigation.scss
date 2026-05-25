@@ -200,18 +200,24 @@
     color: var(--global-text-color);
     cursor: pointer;
     z-index: 100;
+    display: none; /* Hide hamburger button */
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
 
     li {
-      display: table-cell;
+      display: flex;
       vertical-align: middle;
+      white-space: nowrap;
 
       &:first-child {
         font-weight: bold;
         text-wrap: wrap;
+        flex: 0 1 auto;
 
         a {
           margin-left: 0;
@@ -261,15 +267,7 @@
   }
 
   .hidden-links {
-    position: absolute;
-    top: 100%;
-    right: 0;
-    margin-top: 15px;
-    padding: 5px;
-    border: 1px solid var(--global-border-color);
-    border-radius: $border-radius;
-    background: var(--global-bg-color);
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    display: none !important; /* Always hide dropdown */
 
     a {
       margin: 0;
