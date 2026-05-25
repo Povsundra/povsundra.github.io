@@ -27,3 +27,26 @@
     </div>
   </div>
 </div>
+
+<script>
+// Override the greedy navigation updateNav function to prevent item movement
+window.updateNav = function() {};
+// Also hide the hamburger button and ensure all items stay visible
+document.addEventListener('DOMContentLoaded', function() {
+  // Hide the hamburger button
+  var btn = document.querySelector('#site-nav button');
+  if (btn) btn.style.display = 'none';
+  // Move any items from hidden-links back to visible-links
+  var vlinks = document.querySelector('.visible-links');
+  var hlinks = document.querySelector('.hidden-links');
+  if (vlinks && hlinks) {
+    while (hlinks.firstChild) {
+      vlinks.appendChild(hlinks.firstChild);
+    }
+  }
+});
+// Also override resize to do nothing
+window.addEventListener('resize', function() {
+  // Do nothing - prevent updateNav from being called
+}, false);
+</script>
