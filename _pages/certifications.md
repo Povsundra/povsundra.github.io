@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Certifications"
+title: "Certifications & Awards"
 permalink: /certifications/
 author_profile: true
 ---
 
-## Certifications & Professional Development
+## Professional Certifications
 
-I have completed various certifications and professional development courses to enhance my knowledge and expertise in Data Science and Machine Learning.
+I have completed various certifications and professional development courses to enhance my expertise in Data Science, Engineering, and Professional Development.
 
 ### IBM / Cognitive Class Certificates
 ======
@@ -22,7 +22,7 @@ I have completed various certifications and professional development courses to 
   * Provider: IBM Skills Network / Cognitive Class
   * Certificate ID: bbaad986de6e484eb300bd30d5d23a86
 
-### Online Certifications
+### Online Professional Certifications
 ======
 
 - **Machine Learning Specialization** (Coursera)
@@ -45,58 +45,163 @@ I have completed various certifications and professional development courses to 
   * Data Visualization with Tableau
   * Databases and SQL
 
-### Professional Programs
-======
+---
 
-- **Data Science Camp** – Handong Global University
-  * Intensive 2-week data science bootcamp
-  * Hands-on projects and real-world applications
+## Training Programs & Bootcamps
 
-- **Industry Professional Credentials Track (STIC)**
-  * Professional development in information technology
-  * Industry-recognized credentials
+### **Data Science Camp - UNESCO UNITWIN**
+*Standard Level | February 2, 2024*
 
-### Skills Validation
-======
+![Data Science Camp Certificate](/images/certificates/technical-certificates/data_science_camp.jpg)
 
-- **Programming Languages:** Python, R, SQL
-- **Data Science Tools:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
-- **Cloud & Tools:** Google Colab, Jupyter Notebooks, Git/GitHub
+Completed intensive 2-week data science bootcamp by UNESCO UNITWIN Program held by Handong Global University and certified by the Ministry of Education, Republic of Korea.
+
+**Key Skills:** Real-world datasets, hands-on projects, industry-standard practices
 
 ---
 
-## Volunteer & Achievement Certificates
+### **Basic Employment Skill and Soft Skills**
+*Cambodian Youth Network Association | 2024*
 
-### **Digital Literacy Program Trainer**
-*Ministry of Education | Mar 2025 – Present*
+![Employment and Soft Skills Certificate](/images/certificates/technical-certificates/basis_employment_and_soft_skills.jpg)
 
-Trained 300+ students from 4 high schools on digital tools, online safety, and data security.
-
-**Certificate:**
-![Digital Literacy Trainer Certificate](/images/certificates/volunteer-certificates/digital-literacy-trainer.png)
-
----
-
-### **Mathematics Tutor**
-*Institute of Technology of Cambodia | 2022 – 2023*
-
-Taught junior students in Foundation Year program.
-
-**Certificate:**
-![Mathematics Tutor Certificate](/images/certificates/volunteer-certificates/math-tutor.png)
+Completed 6-day intensive training covering:
+- Administration and Secretarial Skills
+- Report and Proposal Writing
+- Youth Leadership, Communication, and Facilitation
 
 ---
 
-### **Environmental Research Competition**
-*Youth Forum on Environment 2023 | May 2023*
+### **Digital Transformation in Engineering**
+*Board of Engineers, Cambodia | March 29, 2024*
 
-**Achievement:** 🏆 **2nd Prize**
+![Digital Transformation Certificate](/images/certificates/technical-certificates/training_digital_tranformation_and_engineering.jpg)
 
-Conducted and presented environmental research at national competition organized by Ministry of Environment.
+Attended training on Digital Transformation in Engineering organized by the Board of Engineers, Cambodia.
 
-**Certificate:**
-![Environmental Research Certificate](/images/certificates/awards/environment-award.png)
+---
+
+## Workshops & Seminars
+
+### **BiM Workshop 2024: Mathematics Foundation**
+*Mathematical Association of Cambodia | November 9-10, 2024*
+
+![Mathematics Workshop Certificate](/images/certificates/technical-certificates/mathematic_workshop.jpg)
+
+**Topic:** Basic in Mathematics: Linear Algebra, Real Analysis and Topology
+
+Organized by Mathematical Association of Cambodia and technically sponsored by Phnom Penh Teacher Education College.
+
+**Instructors:** Monyrattanak SENG, PhD | Vanny DOEM, PhD Fellow
+
+---
+
+## Internship & Professional Experience
+
+### **Data Science Internship - National Council for Minimum Wage**
+*Aug 4 - Oct 4, 2025*
+
+![Data Science Internship Certificate](/images/certificates/technical-certificates/certificate_of_internshp_MLVT.jpg)
+
+**Organization:** General Secretariat of National Council for Minimum Wage  
+**Program:** 2-month Data Science Internship Program  
+**Issued by:** Ministry of Labour and Vocational Training
+
+---
+
+## Volunteer & Community Service Certificates
+
+### **ASEAN Conference Volunteer**
+*CAFEO-40 Conference | December 5-7, 2022*
+
+![ASEAN Conference Certificate](/images/certificates/volunteer-certificates/ASEAN_conference.jpg)
+
+**Achievement:** Certificate of Appreciation for enduring commitment and valuable contribution as a volunteer
+
+**Event:** 40th Conference of the ASEAN Federation of Engineering Organisations (CAFEO-40)  
+**Theme:** The Changing Roles of Engineers in Industry 4.0 Era  
+**Location:** Phnom Penh, Cambodia
+
+**Issued by:** Board of Engineers Cambodia  
+**Signatory:** H.E Sokhom Rithivuth, Secretary General of BEC, AFEO Chairman 2022
+
+---
+
+### **Defense Day Volunteer - ITC**
+*Institute of Technology of Cambodia | July 9-10, 2025*
+
+![Defense Day Volunteer Certificate](/images/certificates/volunteer-certificates/help_department.jpg)
+
+**Certificate of Appreciation** from the Department of Applied Mathematics and Statistics
+
+In recognition of dedication and contribution as a student volunteer during the Defense Day event. Teamwork and commitment greatly contributed to the success of this academic occasion.
+
+**Issued by:** Dr. Lin Mongkolsery, Head of Department of Applied Mathematics and Statistics (AMS)
+
+---
+
+### **Mathematics Teaching & Tutoring**
+*Institute of Technology of Cambodia | 2022-2023*
+
+![Mathematics Tutor Certificate](/images/certificates/volunteer-certificates/teaching_math.jpg)
+
+Certificate from the Institute of Technology of Cambodia recognizing contribution as a Mathematics Tutor in the Foundation Year program.
+
+---
+
+## Youth & Competition Programs
+
+### **E-Gen Competition Program 2025**
+*Directorate General of Youth | 2025*
+
+![E-Gen Competition Certificate](/images/certificates/technical-certificates/EGEN_competition.jpg)
+
+**Certificate of Participation** in the E-Gen Competition Program 2025
+
+Organized by Directorate General of Youth under the Ministry of Education of Cambodia.
+
+---
+
+## Summary
+
+**Total Certifications:** 9  
+**Categories:**
+- Online Professional Certifications: 6
+- Training Programs & Bootcamps: 3
+- Workshops & Seminars: 1
+- Internship Programs: 1
+- Volunteer & Community Service: 3
+- Youth & Competition Programs: 1
+
+**Skills Demonstrated:**
+- Data Science & Analysis
+- Software Engineering & Digital Transformation
+- Leadership & Communication
+- Professional Development
+- Community Service & Volunteering
+
+---
+
+## How to Add or Update Certificate Images
+
+All certificate images are stored in organized folders:
+
+```
+images/certificates/
+├── volunteer-certificates/
+│   ├── ASEAN_conference.jpg
+│   ├── help_department.jpg
+│   └── teaching_math.jpg
+└── technical-certificates/
+    ├── basis_employment_and_soft_skills.jpg
+    ├── certificate_of_internshp_MLVT.jpg
+    ├── data_science_camp.jpg
+    ├── EGEN_competition.jpg
+    ├── mathematic_workshop.jpg
+    └── training_digital_tranformation_and_engineering.jpg
+```
+
+**Last Updated:** {{ site.time | date: '%B %d, %Y' }}
 
 ---
 
