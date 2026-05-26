@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV as PDF](/files/cv.pdf){: .btn .btn--info}
+
 Education
 ======
 * **B.Eng. in Data Science** – Institute of Technology of Cambodia, 2022 – Present (Expected July 2026)
@@ -86,11 +88,7 @@ Languages
 * **Khmer:** Native speaker
 * **English:** Intermediate
 
-Soft Skills
-======
-* Project Management | Problem Solving | Adaptability | Collaboration
-* Time Management | Communication | Teamwork | Critical Thinking
-* Data-Driven Decision Making | Presentation | Resilience
+**Soft Skills:** Project Management · Problem Solving · Communication · Teamwork · Critical Thinking · Time Management · Adaptability · Data-Driven Decision Making · Presentation
 
 Volunteering & Community Service
 ======

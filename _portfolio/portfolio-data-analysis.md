@@ -1,42 +1,36 @@
 ---
 title: "Data Analysis & Correspondence Analysis"
-excerpt: "Statistical analysis of categorical datasets using χ²-test and Correspondence Analysis"
+excerpt: "Statistical analysis of categorical datasets using χ²-test and Correspondence Analysis to uncover hidden relationships."
 collection: portfolio
 date: 2024-01-01
+header:
+  teaser: /assets/images/portfolio-data-analysis-teaser.jpg
 ---
 
-## Project Overview
-Conducted comprehensive statistical analysis on structured datasets to uncover hidden patterns and relationships in categorical data. This project demonstrates proficiency in exploratory data analysis, statistical testing, and data visualization techniques.
+## Problem Statement
 
-## Technologies Used
-- **Python** | **Pandas** | **NumPy** | **SciPy** | **Matplotlib**
+Complex categorical datasets often hide relationships between variables that aren't immediately visible through simple summary statistics. Understanding these multidimensional patterns requires rigorous statistical testing and visualization techniques to extract actionable insights.
 
-## Key Achievements
-✅ **Statistical Testing** - Performed χ²-test (chi-square test) for analyzing categorical variable independence  
-✅ **Dimensional Analysis** - Applied Correspondence Analysis for multi-dimensional pattern visualization  
-✅ **Data Insights** - Extracted actionable insights from complex categorical relationships  
-✅ **Visualization** - Created publication-quality visualizations for data storytelling  
-✅ **Scalable Analysis** - Developed reusable pipeline for categorical data analysis
+## Approach
 
-## Methodology
-1. **Data Preparation** - Cleaned and structured categorical datasets
-2. **Exploratory Analysis** - Conducted EDA to identify patterns
-3. **Statistical Testing** - Applied χ² test to assess variable relationships
-4. **Correspondence Analysis** - Performed CA for multidimensional visualization
-5. **Visualization** - Generated insights-driven visualizations
+- **Statistical Testing:** Performed χ² (chi-square) tests to assess independence between categorical variables
+- **Dimensional Reduction:** Applied Correspondence Analysis to visualize high-dimensional categorical relationships in 2D space
+- **Data Exploration:** Conducted comprehensive exploratory data analysis to identify patterns and anomalies
+- **Visualization:** Created publication-quality charts and heatmaps to communicate findings
 
-## Impact
-- Demonstrated ability to extract meaningful insights from categorical data
-- Showcased proficiency in statistical analysis and Python data science tools
-- Created replicable analysis framework for categorical relationship discovery
+## Tech Stack
 
-## Tools & Libraries
-- NumPy for numerical computation
-- Pandas for data manipulation and analysis
-- SciPy for statistical testing
-- Matplotlib for data visualization
+`Python` `Pandas` `NumPy` `SciPy` `Matplotlib` `Statistics` `Data Analysis`
+
+## Key Outcome
+
+Developed a reusable analytical framework for categorical data exploration, successfully uncovering meaningful patterns and relationships that supported data-driven decision-making.
+
+## GitHub Repository
+
+[View on GitHub](link coming soon)
 
 ---
 
-**Project Year:** 2024  
+**Year:** 2024  
 **Status:** Completed

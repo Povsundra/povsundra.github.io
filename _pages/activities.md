@@ -5,88 +5,48 @@ permalink: /activities/
 author_profile: true
 ---
 
-## Activities, Volunteering & Engagement
+## Teaching & Training
 
-Beyond academics, I am actively involved in various activities, volunteering opportunities, workshops, and professional development programs.
+**Digital Literacy Program Trainer**  
+Ministry of Education | Mar 2025–Present  
+Leading digital literacy training for 300+ students across 4 high schools, covering digital tools, online safety, and data security practices.
 
-Volunteering
-======
+---
 
-- **Volunteer** – Institute of Technology of Cambodia
-  * Participate in university events and workshops
-  * Mentor junior students in data science fundamentals
-  * Support community outreach programs
+## Volunteering & Community Service
 
-- **Data Science Enthusiast Group Member**
-  * Active participation in data science meetups and discussion groups
-  * Share knowledge and collaborate on projects with peers
+**Defense Day Student Volunteer**  
+Department of Applied Mathematics and Statistics, ITC | July 9–10, 2025  
+Recognized with a Certificate of Appreciation from Dr. Lin Mongkolsery for dedicated contributions to the ITC Defense Day academic event.
 
-Workshops & Training
-======
+**Mathematics Tutor**  
+ITC Foundation Year Program | 2022–2023  
+Provided foundational mathematics instruction to junior students, helping them build strong mathematical foundations.
 
-- **Python for Data Science Workshop**
-  * Hands-on training in Python libraries (Pandas, NumPy, Scikit-learn)
-  * Real-world data analysis projects
+**CAFEO-40 Conference Volunteer**  
+Board of Engineers Cambodia | December 5–7, 2022  
+Volunteered at the 40th ASEAN Federation of Engineering Organisations conference in Phnom Penh, supporting the event theme "The Changing Roles of Engineers in Industry 4.0 Era."
 
-- **Machine Learning Fundamentals Workshop**
-  * Introduction to ML concepts, algorithms, and applications
-  * Practical exercises and case studies
+---
 
-- **Deep Learning and Neural Networks Training**
-  * Understanding deep learning architectures
-  * Implementing neural networks for various applications
+## Competitions & Awards
 
-Professional Events
-======
+**2nd Prize — Youth Forum on Environment 2023**  
+Ministry of Environment | May 2023  
+Conducted and presented original environmental research at the national Youth Forum on Environment organized by the Ministry of Environment.
 
-- **Data Science Conferences & Seminars**
-  * Attended multiple data science conferences
-  * Participated in industry talks and networking sessions
-  * Learned about latest trends in AI and Machine Learning
+**E-Gen Competition Program 2025**  
+Directorate General of Youth, Ministry of Education | 2025  
+Participated in the E-Gen youth development program promoting digital skills and youth entrepreneurship.
 
-- **Hackathons & Competitions**
-  * Participated in data science hackathons
-  * Competed in machine learning competitions on platforms like Kaggle
-  * Built solutions under tight deadlines and collaborated with teams
+---
 
-- **Tech Meetups & Networking Events**
-  * Regular attendee of data science and AI meetups
-  * Engaged with industry professionals and researchers
-  * Shared experiences and learned from community
+## Workshops & Seminars
 
-Professional Organizations
-======
+**BiM Workshop 2024: Mathematics Foundation**  
+Mathematical Association of Cambodia | November 9–10, 2024  
+Attended intensive workshop on Linear Algebra, Real Analysis, and Topology, instructed by PhD-level educators.
 
-- **Institute of Technology of Cambodia Student Community**
-  * Active member of academic organizations
-  * Participate in departmental activities and events
-
-- **Data Science & AI Interest Groups**
-  * Membership in relevant professional and academic groups
-  * Continuous learning and skill development
-
-Speaking & Presentations
-======
-
-- **Student Research Presentations**
-  * Presented project findings at academic conferences
-  * Shared insights on data science applications
-
-Leadership Activities
-======
-
-- **Student Representative**
-  * Represent student interests in academic meetings
-  * Organize and coordinate peer learning sessions
-  * Facilitate communication between students and faculty
-
-Community Engagement
-======
-
-- **Open Source Contributions**
-  * Contribute to data science and open-source projects
-  * Share code and insights with the community through GitHub
-
-- **Knowledge Sharing**
-  * Write blog posts or tutorials on data science topics
-  * Mentor and help others in the data science journey
+**Digital Transformation in Engineering**  
+Board of Engineers, Cambodia | March 29, 2024  
+Explored emerging digital technologies and their applications in modern engineering practices.

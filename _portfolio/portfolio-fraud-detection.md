@@ -1,51 +1,37 @@
 ---
 title: "Fraud Detection in Financial Transactions"
-excerpt: "Machine learning model for detecting fraudulent banking transactions using ensemble methods"
+excerpt: "Machine learning classification model to detect fraudulent banking transactions using ensemble methods and SMOTE."
 collection: portfolio
 date: 2024-01-01
+header:
+  teaser: /assets/images/portfolio-fraud-detection-teaser.jpg
 ---
 
-## Project Overview
-Built and optimized machine learning models to detect fraudulent transactions in banking datasets while addressing severe class imbalance. This project demonstrates expertise in classification algorithms, imbalanced dataset handling, and model evaluation.
+## Problem Statement
 
-## Technologies Used
-- **Python** | **Scikit-learn** | **Pandas** | **SMOTE** | **Machine Learning**
+Financial institutions face significant losses due to fraudulent transactions, which are rare events compared to legitimate ones. Building an accurate fraud detection model requires handling severe class imbalance while maintaining high precision and recall to minimize false positives and false negatives.
 
-## Key Achievements
-✅ **Multi-Algorithm Approach** - Implemented Logistic Regression, Decision Trees, and Random Forests  
-✅ **Imbalance Handling** - Applied SMOTE and advanced resampling techniques to address class imbalance  
-✅ **Model Optimization** - Tuned hyperparameters for robust fraud detection performance  
-✅ **Production-Ready** - Developed deployable fraud detection pipeline  
-✅ **Performance Metrics** - Evaluated models using precision, recall, F1-score, and AUC-ROC  
+## Approach
 
-## Methodology
-1. **Data Exploration** - Analyzed transaction dataset and identified class imbalance
-2. **Feature Engineering** - Prepared features for model training
-3. **Resampling** - Applied SMOTE to balance training data
-4. **Model Development** - Trained ensemble of classification algorithms
-5. **Evaluation** - Assessed models using multiple performance metrics
-6. **Deployment** - Created production-ready pipeline
+- **Class Imbalance Handling:** Applied SMOTE (Synthetic Minority Over-sampling Technique) and other resampling strategies to balance training data
+- **Algorithm Selection:** Implemented Logistic Regression (baseline), Decision Trees (interpretability), and Random Forest (ensemble performance)
+- **Feature Engineering:** Prepared and normalized transaction features for optimal model performance
+- **Model Evaluation:** Used precision, recall, F1-score, and AUC-ROC metrics to assess classification quality
 
-## Models Implemented
-- **Logistic Regression** - Baseline probabilistic model
-- **Decision Trees** - Interpretable decision-based classifier
-- **Random Forest** - Ensemble method for robust predictions
+## Tech Stack
 
-## Impact
-- Successfully identified fraudulent transactions with high accuracy
-- Developed scalable pipeline for real-world deployment
-- Demonstrated mastery of imbalanced learning techniques
+`Python` `Scikit-learn` `Pandas` `NumPy` `SMOTE` `Machine Learning` `Classification`
 
-## Skills Demonstrated
-- Classification algorithms and ensemble methods
-- Handling imbalanced datasets with SMOTE
-- Model evaluation and hyperparameter tuning
-- Pipeline development and deployment
+## Key Outcome
 
-## Mentorship
-**Dr. Phauk Sokkhey** - Deputy Head of Department of Applied Mathematics and Statistics, ITC
+Successfully built a production-ready fraud detection pipeline with robust performance on imbalanced transaction data, demonstrating mastery of ensemble methods and class imbalance handling techniques.
+
+## GitHub Repository
+
+[View on GitHub](link coming soon)
 
 ---
 
-**Project Year:** 2024  
+**Year:** 2024  
+**Mentor:** Mr. Touch Sopheak  
 **Status:** Completed
