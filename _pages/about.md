@@ -1,79 +1,82 @@
 ---
 permalink: /
 title: "About Me"
+excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-## Welcome!
+Welcome! I'm **Phorn Sreypov**, a final-year Data Science student at the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics.
 
-I'm **Phorn Sreypov**, a final-year Data Science student at the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics. I'm passionate about building reliable data pipelines, conducting meaningful analyses, and translating raw data into actionable insights. With hands-on experience in ETL processes, data engineering, and business intelligence tools, I'm committed to solving real-world problems through data-driven solutions.
-
----
-
-## Quick Stats
-
-- 📚 **Final-year** B.Eng. Data Science student (2021–2026)
-- 🛠️ **3+ internships** in data engineering, AI, and data analysis
-- 👥 **300+ students** trained in digital literacy and online safety
-- 🏆 **2nd Prize** Youth Forum on Environment 2023
-- 💻 **Current role:** Data Science & AI Intern at GCDE (Feb 2026–Present)
+I am passionate about **Data Engineering**, **ETL Pipelines**, and **Data Analysis**, with hands-on experience building reliable data solutions and machine learning models. Currently working as a Data Scientist Intern on the **EDC–AFD–EDU Project**, where I develop a web platform, build forecasting models, and research ensemble meta-learning techniques.
 
 ---
 
 ## Research Interests
 
-`Data Engineering` `ETL Pipelines` `Data Analysis` `Business Intelligence` `Python` `Machine Learning`
+`Ensemble Meta-Learning` &nbsp; `Forecasting` &nbsp; `Data Engineering & ETL` &nbsp; `Data Analysis` &nbsp; `Machine Learning` &nbsp; `Business Intelligence` &nbsp; `RAG & LLMs` *(currently exploring)*
+
+---
+---
+
+## Domains I've Explored
+
+Applying data science across diverse fields through coursework and projects:
+
+`Economics` &nbsp; `E-Commerce` &nbsp; `Energy` &nbsp; `Banking & Finance` &nbsp; `Social Science`
 
 ---
 
 ## Education
 
-**B.Eng. in Data Science**  
-Institute of Technology of Cambodia (ITC) | 2021–2026  
-*Department of Applied Mathematics and Statistics*
+**Institute of Technology of Cambodia (ITC)**
+*B.Eng. in Data Science* · 2021 – 2026
+Department of Applied Mathematics and Statistics
 
-**Relevant Coursework:** Exploratory Data Analysis, Machine Learning, Deep Learning, Time Series Analysis, Data Visualization, Natural Language Processing, Database Design, Business Intelligence
+**Relevant Coursework:**
+`Exploratory Data Analysis` &nbsp; `Machine Learning` &nbsp; `Deep Learning` &nbsp; `Time Series Analysis` &nbsp; `Data Visualization` &nbsp; `Natural Language Processing` &nbsp; `Database Design` &nbsp; `Business Intelligence`
+
+---
+
+## Quick Stats
+
+| | |
+|---|---|
+| 🎓 | Final-year Data Science student at ITC |
+| 💼 | 2 internships in data science and data analysis |
+| 📊 | ETL & BI expertise with Python, SQL, Power BI |
+| 🏆 | 2nd Prize – Youth Forum on Environment 2023 |
+| 👥 | 300+ students trained in digital literacy |
 
 ---
 
 ## Recent Experience
 
-### Data Science & AI Intern
-**General Department of Customs and Excise of Cambodia (GCDE)** | Feb 2026–Present
+**Data Scientist Intern** · EDC–AFD–EDU Project · *March – Present*
+- Developing a web platform for educational data management and reporting
+- Building forecasting models for student and enrollment trend analysis
+- Researching ensemble meta-learning techniques for prediction improvement
 
-- Developed OCR solutions for trade document processing and evaluation
-- Assessed multiple OCR frameworks (GLM-OCR, Qwen-3-4B, Docling, PaddleOCR, Marker)
-- Implemented and tested self-hosted deployments using Ollama and vLLM
-
-### Data Analyst Intern
-**General Secretariat of National Council for Minimum Wage** | Aug–Oct 2025
-
-- Designed and executed ETL pipelines using Python and SQL to transform raw data into analysis-ready datasets
-- Conducted exploratory data analysis to uncover business insights and support decision-making
+**Data Analyst Intern** · General Secretariat of National Council for Minimum Wage (MLVT) · *Aug – Oct 2025*
+- Built and executed ETL pipelines using Python and SQL
 - Created interactive Power BI dashboards for stakeholder reporting
-- Performed χ²-test and Correspondence Analysis to visualize categorical data relationships
+- Conducted exploratory data analysis to uncover business insights and support decision-making
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**
-- Python, R, SQL
+**Programming Languages:** Python, R, SQL
 
-**Data Engineering & Databases**
-- ETL Processes, Data Pipelines, PostgreSQL, MySQL, Relational Databases
+**Data Engineering & Databases:** ETL Processes, Data Pipelines, PostgreSQL, MySQL, Relational Databases
 
-**Data Science & Visualization**
-- Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI, Excel
+**Data Science & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Power BI, Excel
 
-**Machine Learning**
-- Scikit-learn, PyTorch, TensorFlow, Logistic Regression, Decision Trees, Random Forests, SMOTE
+**Machine Learning:** Scikit-learn, PyTorch, TensorFlow, Ensemble Methods, Meta-Learning
 
-**Other Skills**
-- Problem Solving, Project Management, Adaptability, Communication, Teamwork
+**AI & LLM :** Retrieval-Augmented Generation (RAG), LangChain, Vector Databases
 
 ---
 
@@ -86,4 +89,4 @@ Institute of Technology of Cambodia (ITC) | 2021–2026
 
 ## Get in Touch
 
-I'm always interested in discussing data projects, collaborations, and opportunities in the field. Feel free to reach out via [email](mailto:phornsreypov311@gmail.com) or connect with me on [GitHub](https://github.com/povsundra) and [LinkedIn](https://phornsreypov.linkedin).
+I'm always open to discussing data projects, research collaborations, or opportunities in the field. Feel free to reach out via [email](mailto:phornsreypov311@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/phornsreypov).
