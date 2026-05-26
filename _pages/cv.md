@@ -17,6 +17,8 @@ Education
 
 Certifications
 ======
+* **Data Analysis with Python** – Cognitive Class / IBM (DA0101EN) | August 2024
+* **SQL and Relational Databases 101** – Cognitive Class / IBM Skills Network (DB0101EN) | June 2024
 * Machine Learning Specialization (Coursera)
 * Google Data Analytics Professional Certificate
 * Google Advanced Data Analytics Professional Certificate
@@ -33,6 +35,15 @@ Work Experience
     * Conducted evaluation of multiple OCR frameworks (GLM-OCR, Qwen-3-4B, Docling, PaddleOCR, Marker)
     * Assessed model performance across diverse document types (invoices, bills of lading, airway bills)
     * Implemented and tested self-hosted deployments using Ollama and vLLM
+
+* **Aug – Oct 2025: Data Analyst Intern**
+  * General Secretariat of National Council for Minimum Wage
+  * Duties included:
+    * Developed and executed ETL pipelines using Python and SQL, transforming raw data into analysis-ready datasets
+    * Reduced manual data preparation time through automated pipeline development
+    * Conducted data analysis on structured datasets to uncover key business insights
+    * Created interactive Power BI dashboards for stakeholder reporting
+    * Performed χ²-test and Correspondence Analysis to visualize categorical data relationships
 
 * **2025: Research Intern**
   * Institute of Digital Research and Innovation (IDRI), CADT
@@ -55,14 +66,20 @@ Technical Skills
 
 Projects
 ======
-* **Machine Learning Project** (2024-Present)
-  * Predictive modeling and analysis
-* **Data Analysis Project** (2024-Present)
-  * Exploratory data analysis and visualization
-* **Deep Learning Project** (2024-Present)
-  * Neural network implementation
-* **NLP Project** (2024-Present)
-  * Natural language processing application
+* **Data Analysis & Correspondence Analysis Project** (2024)
+  * Performed statistical analysis using χ²-test and Correspondence Analysis on categorical datasets
+  * Uncovered and visualized relationships in complex data using Python (Pandas, NumPy, SciPy, Matplotlib)
+  * Technologies: Python, Statistical Analysis, Data Visualization
+
+* **Fraud Detection in Financial Transactions** (2024)
+  * Applied Logistic Regression, Decision Trees, and Random Forest algorithms for fraud detection
+  * Addressed class imbalance using SMOTE and other resampling techniques
+  * Built production-ready fraud detection pipeline
+  * Mentor: Dr. Phauk Sokkhey, Deputy Head of Department of Applied Mathematics and Statistics
+
+* **Data Science Camp Projects** (Jan-Feb 2024)
+  * Completed standard-level Data Science training by UNESCO UNITWIN Program at Handong Global University
+  * Gained hands-on experience with real-world datasets and industry-standard practices
 
 Languages
 ======
@@ -71,14 +88,29 @@ Languages
 
 Soft Skills
 ======
-* Time Management, Communication, Teamwork
-* Negotiation, Adaptability, Presentation
-* Critical Thinking, Problem Solving, Resilience
+* Project Management | Problem Solving | Adaptability | Collaboration
+* Time Management | Communication | Teamwork | Critical Thinking
+* Data-Driven Decision Making | Presentation | Resilience
 
-Leadership
+Volunteering & Community Service
 ======
-* **Student Representative** – Institute of Technology of Cambodia
+* **Digital Literacy Program Trainer** (Mar 2025 – Present)
+  * Ministry of Education
+  * Trained 300+ students from 4 high schools on digital tools, online safety, and data security
+
+* **Mathematics Tutor** (2022 – 2023)
+  * Institute of Technology of Cambodia
+  * Taught junior students in Foundation Year program
+
+Awards & Recognition
+======
+* **2nd Prize – Youth Forum on Environment 2023** (Ministry of Environment)
+  * Conducted and presented original environmental research
+  * Recognized for excellence in environmental analysis and presentation
 
 References
 ======
-* Available upon request
+* **Dr. Phauk Sokkhey**
+  * Deputy Head of Department of Applied Mathematics and Statistics, ITC
+  * Phone: 012 939 310
+  * Email: phauk.sokkhey@itc.edu.kh
