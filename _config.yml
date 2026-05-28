@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Phorn Sreypov — Data Science Portfolio"
+title                    : "PHORN SREYPOV — Portfolio"
 title_separator          : "—"
-name                     : &name "Phorn Sreypov"
-description              : &description "Data Science | ML Engineer | Business Intelligence — Phorn Sreypov's Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "PHORN SREYPOV" # Update this with your name, this is the default if not overridden by a page
+description              : &description "Data Scientist | ML Engineer | Business Intelligence — My Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://povsundra.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "povsundra/povsundra.github.io"
 author:
   # Biographic information
   avatar           : "my_profile.png"
-  name             : "Phorn Sreypov"
-  pronouns         : # example: "she/her"  
-  bio              : "Data Science ML Engineer | Business Intelligence"
+  name             : "PHORN SREYPOV"
+  pronouns         : "example: "she/her"  
+  bio              : "Data Scientist | ML Engineer | Business Intelligence"
   location         : "Phnom Penh, Cambodia"
   employer         : "Institute of Technology of Cambodia (ITC)"
   uri              : # URL

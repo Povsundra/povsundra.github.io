@@ -29,7 +29,7 @@ Department of Applied Mathematics and Statistics
 
 ## Research Interests
 
-`Statistical Analysis` &nbsp; `Forecasting` &nbsp; `Data Engineering & ETL` &nbsp; `Data Analysis` &nbsp; `Machine Learning` &nbsp; `Business Intelligence` &nbsp; `RAG & LLMs` *(currently exploring)*
+`Statistical Analysis` &nbsp; `Forecasting` &nbsp; `Data Engineering & ETL` &nbsp; `Data Analysis` &nbsp; `Machine Learning` &nbsp; `Business Intelligence` &nbsp; `RAG & LLMs`
 
 ---
 
