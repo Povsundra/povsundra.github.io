@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "my_profile.png"
   name             : "PHORN SREYPOV"
-  pronouns         : "example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "Data Scientist | ML Engineer | Business Intelligence"
   location         : "Phnom Penh, Cambodia"
   employer         : "Institute of Technology of Cambodia (ITC)"
