@@ -20,5 +20,4 @@ Developed a spam email detection system using NLP techniques including tokenizat
 ---
 
 **Year:** 2025  
-**Status:** Completed  
-**Project Type:** Team Project
+**Status:** Completed
