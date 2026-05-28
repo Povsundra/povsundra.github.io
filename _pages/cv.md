@@ -20,45 +20,24 @@ Education
 Certifications
 ======
 * **Data Analysis with Python** – Cognitive Class / IBM (DA0101EN) | August 2024
-* **SQL and Relational Databases 101** – Cognitive Class / IBM Skills Network (DB0101EN) | June 2024
-* Machine Learning Specialization (Coursera)
-* Google Data Analytics Professional Certificate
-* Google Advanced Data Analytics Professional Certificate
-* Meta Data Analyst Professional Certificate
-* Data Science Camp by Handong Global University
-* Industry Professional Credentials Track (STIC)
+* **SQL and Relational Databases 101** – Cognitive Class / IBM 
 
 Work Experience
 ======
-* **Feb 2026 – Present: Data Science and AI Intern**
-  * General Department of Customs and Excise of Cambodia (GCDE)
-  * Duties included:
-    * Developed Optical Character Recognition (OCR) solutions for trade documents
-    * Conducted evaluation of multiple OCR frameworks (GLM-OCR, Qwen-3-4B, Docling, PaddleOCR, Marker)
-    * Assessed model performance across diverse document types (invoices, bills of lading, airway bills)
-    * Implemented and tested self-hosted deployments using Ollama and vLLM
 
-* **Aug – Oct 2025: Data Analyst Intern**
-  * General Secretariat of National Council for Minimum Wage
-  * Duties included:
-    * Developed and executed ETL pipelines using Python and SQL, transforming raw data into analysis-ready datasets
-    * Reduced manual data preparation time through automated pipeline development
-    * Conducted data analysis on structured datasets to uncover key business insights
-    * Created interactive Power BI dashboards for stakeholder reporting
-    * Performed χ²-test and Correspondence Analysis to visualize categorical data relationships
+* **Data Analyst Intern** · General Secretariat of National Council for Minimum Wage
+  * Aug – Oct 2025 · Ministry of Labour and Vocational Training
+  * Designed and automated ETL pipelines in **Python and SQL**, eliminating manual XML-to-Excel extraction and cleaning processes, reducing data preparation time by **~70%**
+  * Transformed semi-structured data into structured datasets stored in a centralized **data warehouse**, supporting daily and monthly reporting cycles
+  * Conducted in-depth analysis on large-scale economic datasets to uncover key trends and insights for policy research
+  * Built **3 interactive Power BI dashboards** adopted by the research team for ongoing stakeholder reporting and decision support
 
-* **2025: Research Intern**
-  * Institute of Digital Research and Innovation (IDRI), CADT
-  * Duties included:
-    * Fine-tuned Qwen3 4B-parameter LLM using LoRA and 4-bit quantization
-    * Processed tax-related Q&A dataset (1,690 pairs) from GDT website PDFs
-    * Successfully deployed model with minimal resources (Tesla T4 on Google Colab)
+* **Data Scientist Intern** · Electricité du Cambodge (EDC)
+  * March 2025 – Present 
+  * Engineered a **multi-stage hybrid feature selection framework** combining Pearson correlation, Mutual Information, Permutation Importance, and SHAP across 3 model families, reducing input dimensionality from **158 to 18 features** without sacrificing predictive accuracy
+  * Built and validated a **meta-stacking ensemble** (RF, XGB, SVR, MLP base models + Linear Regression meta-learner) using rolling-year temporal cross-validation across 4 folds, achieving a final forecast MAPE on the held-out test set
+  * Deployed a **full-stack forecasting platform** (FastAPI + React + PostgreSQL + Docker) on internal infrastructure, enabling non-technical operators to generate, visualise, and export multi-model ensemble forecasts through a role-based dashboard
 
-* **Aug – Sep 2024: Data Annotation Intern**
-  * Ministry of Post and Telecommunications, CADT
-  * Duties included:
-    * Processed video data using ffmpeg framework in Python
-    * Performed text segmentation for Khmer ASR model training
 
 Technical Skills
 ======

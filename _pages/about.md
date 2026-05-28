@@ -8,24 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm **Phorn Sreypov**, a final-year Data Science student at the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics.
+I'm **Phorn Sreypov**, a final-year Data Science student at the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics. 
 
-I am passionate about **Data Engineering**, **ETL Pipelines**, and **Data Analysis**, with hands-on experience building reliable data solutions and machine learning models. Currently working as a Data Scientist Intern on the **EDC–AFD–EDU Project**, where I develop a web platform, build forecasting models, and research ensemble meta-learning techniques.
+I'm a results-driven **Data Scientist and Engineer** with hands-on expertise in building end-to-end data solutions — from architecting robust ETL pipelines and data infrastructure to developing predictive models and analytical dashboards. My technical foundation spans **machine learning**, **time series forecasting**, **ensemble meta-learning**, and **full-stack data systems** (FastAPI, React, PostgreSQL, Docker). I excel at transforming raw, semi-structured data into strategic insights that drive informed business decisions and enable scalable data-driven operations.
 
----
-
-## Research Interests
-
-`Ensemble Meta-Learning` &nbsp; `Forecasting` &nbsp; `Data Engineering & ETL` &nbsp; `Data Analysis` &nbsp; `Machine Learning` &nbsp; `Business Intelligence` &nbsp; `RAG & LLMs` *(currently exploring)*
-
----
----
-
-## Domains I've Explored
-
-Applying data science across diverse fields through coursework and projects:
-
-`Economics` &nbsp; `E-Commerce` &nbsp; `Energy` &nbsp; `Banking & Finance` &nbsp; `Social Science`
+I'm actively exploring the intersection of **AI engineering and applied research**, seeking opportunities to build impactful systems and contribute to advancing data science practices in production environments.
 
 ---
 
@@ -36,19 +23,29 @@ Applying data science across diverse fields through coursework and projects:
 Department of Applied Mathematics and Statistics
 
 **Relevant Coursework:**
-`Exploratory Data Analysis` &nbsp; `Machine Learning` &nbsp; `Deep Learning` &nbsp; `Time Series Analysis` &nbsp; `Data Visualization` &nbsp; `Natural Language Processing` &nbsp; `Database Design` &nbsp; `Business Intelligence`
+`Exploratory Data Analysis` &nbsp; `Machine Learning` &nbsp; `Deep Learning` &nbsp; `Time Series Analysis` &nbsp; `Data Visualization` &nbsp; `Natural Language Processing` &nbsp; `Database Design` &nbsp; `Business Intelligence`&nbsp; `Statistical Analysis` &nbsp; `Accounting` &nbsp; `Advanced Programming for Data Dcience` &nbsp; `Probabilistics Graphical Model` &nbsp; `AI Engineering`
 
 ---
 
-## Quick Stats
+## Research Interests
 
-| | |
-|---|---|
-| 🎓 | Final-year Data Science student at ITC |
-| 💼 | 2 internships in data science and data analysis |
-| 📊 | ETL & BI expertise with Python, SQL, Power BI |
-| 🏆 | 2nd Prize – Youth Forum on Environment 2023 |
-| 👥 | 300+ students trained in digital literacy |
+`Statistical Analysis` &nbsp; `Forecasting` &nbsp; `Data Engineering & ETL` &nbsp; `Data Analysis` &nbsp; `Machine Learning` &nbsp; `Business Intelligence` &nbsp; `RAG & LLMs` *(currently exploring)*
+
+---
+
+## Currently Exploring
+
+- **LLM and Retrieval-Augmented Generation (RAG):** Researching production-ready document query systems and knowledge integration techniques — bridging AI engineering and practical application development
+
+- **Applied Deep Learning:** Exploring advanced deep learning architectures and techniques to strengthen both the theoretical foundations and practical implementation capabilities in machine learning systems
+
+---
+
+## Domains I've Explored
+
+Applying data science across diverse fields through coursework and projects:
+
+`Economics` &nbsp; `E-Commerce` &nbsp; `Energy` &nbsp; `Banking & Finance` 
 
 ---
 
@@ -59,7 +56,7 @@ Department of Applied Mathematics and Statistics
 - Building forecasting models for student and enrollment trend analysis
 - Researching ensemble meta-learning techniques for prediction improvement
 
-**Data Analyst Intern** · General Secretariat of National Council for Minimum Wage (MLVT) · *Aug – Oct 2025*
+**Data Analyst Intern** · General Secretariat of National Council for Minimum Wage (MLVT)| Ministry of Labour and Vocational Training · *Aug – Oct 2025*
 - Built and executed ETL pipelines using Python and SQL
 - Created interactive Power BI dashboards for stakeholder reporting
 - Conducted exploratory data analysis to uncover business insights and support decision-making
@@ -72,9 +69,9 @@ Department of Applied Mathematics and Statistics
 
 **Data Engineering & Databases:** ETL Processes, Data Pipelines, PostgreSQL, MySQL, Relational Databases
 
-**Data Science & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Power BI, Excel
+**Data Science & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Power BI
 
-**Machine Learning:** Scikit-learn, PyTorch, TensorFlow, Ensemble Methods, Meta-Learning
+**Machine Learning:** Scikit-learn, PyTorch, TensorFlow, Ensemble Methods, Meta-Learning, Supervised and Unsupervised Learning
 
 **AI & LLM :** Retrieval-Augmented Generation (RAG), LangChain, Vector Databases
 
