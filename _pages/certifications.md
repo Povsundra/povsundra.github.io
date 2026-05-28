@@ -17,24 +17,6 @@ Gained practical skills in exploratory data analysis, data manipulation, and vis
 *IBM Skills Network / Cognitive Class | June 17, 2024*  
 Mastered SQL fundamentals and relational database design principles for data querying and management.
 
-### Online Certifications (Coursera)
-
-**[Machine Learning Specialization](link coming soon)**  
-*Coursera | 2024*  
-Completed 3-course specialization covering supervised learning, advanced algorithms, and unsupervised learning techniques.
-
-**[Google Data Analytics Professional Certificate](link coming soon)**  
-*Coursera | 2024*  
-Developed proficiency in data analysis with R, data visualization, and data cleaning methodologies.
-
-**[Google Advanced Data Analytics Professional Certificate](link coming soon)**  
-*Coursera | 2024*  
-Advanced training in machine learning with Python, predictive modeling, and statistical analysis techniques.
-
-**[Meta Data Analyst Professional Certificate](link coming soon)**  
-*Coursera | 2024*  
-Learned statistical analysis, Tableau visualization, and SQL database fundamentals for business analytics.
-
 ---
 
 ## Training Programs & Bootcamps
