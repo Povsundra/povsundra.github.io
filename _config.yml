@@ -23,10 +23,10 @@ repository               : "povsundra/povsundra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_profile.png"
   name             : "Phorn Sreypov"
   pronouns         : # example: "she/her"  
-  bio              : "Data Science Student · ETL & BI · ITC"
+  bio              : "Data Science ML Engineer | Business Intelligence"
   location         : "Phnom Penh, Cambodia"
   employer         : "Institute of Technology of Cambodia (ITC)"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://phornsreypov.linkedin"
+  linkedin         : "https://www.linkedin.com/in/phornsreypov"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

@@ -20,7 +20,7 @@ Education
 Certifications
 ======
 * **Data Analysis with Python** – Cognitive Class / IBM (DA0101EN) | August 2024
-* **SQL and Relational Databases 101** – Cognitive Class / IBM 
+* **SQL and Relational Databases 101** – Cognitive Class / IBM | 2024 
 
 Work Experience
 ======
