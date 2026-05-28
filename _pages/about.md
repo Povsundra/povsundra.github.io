@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "Portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
+Welcome to my portfolio! 
 I'm **Phorn Sreypov**, a final-year Data Science student at the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics. 
 
 I'm a results-driven **Data Scientist and Engineer** with hands-on expertise in building end-to-end data solutions — from architecting robust ETL pipelines and data infrastructure to developing predictive models and analytical dashboards. My technical foundation spans **machine learning**, **time series forecasting**, **ensemble meta-learning**, and **full-stack data systems** (FastAPI, React, PostgreSQL, Docker). I excel at transforming raw, semi-structured data into strategic insights that drive informed business decisions and enable scalable data-driven operations.
