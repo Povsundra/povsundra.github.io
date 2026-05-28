@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Phorn Sreypov — Data Science Portfolio"
 title_separator          : "—"
 name                     : &name "Phorn Sreypov"
-description              : &description "Phorn Sreypov's Data Science Portfolio - Final Year Student at ITC"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Data Science | ML Engineer | Business Intelligence — Phorn Sreypov's Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://povsundra.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/phornsreypov"
+  linkedin         : "https://www.linkedin.com/in/phorn-sreypov-78258a2a5"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
