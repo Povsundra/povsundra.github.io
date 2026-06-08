@@ -84,7 +84,7 @@ Applying data science across diverse fields through coursework and projects:
 - **English:** Intermediate
 
 ---
-
+ 
 ## Get in Touch
 
-I'm always open to discussing data projects, research collaborations, or opportunities in the field. Feel free to reach out via [email](mailto:phornsreypov311@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/phornsreypov).
+I'm always open to discussing data projects, research collaborations, or opportunities in the field. Feel free to reach out via [email](mailto:phornsreypov311@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/phorn-sreypov-78258a2a5/).
