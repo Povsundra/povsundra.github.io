@@ -10,7 +10,8 @@ redirect_from:
 Welcome to my portfolio! 
 I'm **Phorn Sreypov**, a final-year Data Science student at the [Institute of Technology of Cambodia (ITC)](https://www.itc.edu.kh/), Department of Applied Mathematics and Statistics. 
 
-I'm a results-driven **Data Scientist and Engineer** with hands-on expertise in building end-to-end data solutions — from architecting robust ETL pipelines and data infrastructure to developing predictive models and analytical dashboards. My technical foundation spans **machine learning**, **time series forecasting**, **ensemble meta-learning**, and **full-stack data systems** (FastAPI, React, PostgreSQL, Docker). I excel at transforming raw, semi-structured data into strategic insights that drive informed business decisions and enable scalable data-driven operations.
+
+I am an I5 **Data Science** student with research experience supporting a PhD project on electrical load forecasting under the **EDC–AFD–EU** platform. My responsibilities include collecting, cleaning, and analyzing Cambodia’s real national power system load data, conducting exploratory data analysis, and assisting in the development and evaluation of machine learning and time-series forecasting models. Through this work, I contribute to improving electricity demand prediction and power system planning while strengthening my skills in data science, predictive analytics, statistical modeling, and research collaboration. I am passionate about applying data-driven solutions to real-world challenges in the energy sector and beyond.
 
 I'm actively exploring the intersection of **AI engineering and applied research**, seeking opportunities to build impactful systems and contribute to advancing data science practices in production environments.
 
@@ -51,7 +52,7 @@ Applying data science across diverse fields through coursework and projects:
 
 ## Recent Experience
 
-**Data Scientist Intern** · EDC–AFD–EDU Project · *March – Present*
+**Data Scientist** · EDC–AFD–EDU Project · *March – Present*
 - Developing a web platform for educational data management and reporting
 - Building forecasting models for student and enrollment trend analysis
 - Researching ensemble meta-learning techniques for prediction improvement
