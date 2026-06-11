@@ -54,7 +54,7 @@ Applying data science across diverse fields through coursework and projects:
 
 **Data Scientist** · EDC–AFD–EDU Project · *March – Present*
 - Developing a web platform for educational data management and reporting
-- Building forecasting models for student and enrollment trend analysis
+- Building forecasting models for for electricity load prediction
 - Researching ensemble meta-learning techniques for prediction improvement
 
 **Data Analyst Intern** · General Secretariat of National Council for Minimum Wage (MLVT)| Ministry of Labour and Vocational Training · *Aug – Oct 2025*
