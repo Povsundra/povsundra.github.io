@@ -2,7 +2,7 @@
 title: "Fraud Detection in Financial Transactions"
 excerpt: "Machine learning classification model to detect fraudulent banking transactions using ensemble methods and SMOTE."
 collection: portfolio
-date: 2024-01-01
+date: 2025-10-12
 header:
   teaser: /assets/images/portfolio-fraud-detection-teaser.jpg
 ---
