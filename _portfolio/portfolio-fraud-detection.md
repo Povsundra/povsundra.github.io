@@ -9,29 +9,33 @@ header:
 
 ## Problem Statement
 
-Financial institutions face significant losses due to fraudulent transactions, which are rare events compared to legitimate ones. Building an accurate fraud detection model requires handling severe class imbalance while maintaining high precision and recall to minimize false positives and false negatives.
+Financial institutions face significant losses due to fraudulent transactions, which are rare events compared to legitimate ones. The challenge lies in building an accurate fraud detection model that handles severe class imbalance (0.13% fraud rate) while maintaining high precision and recall to minimize both false positives and false negatives.
 
 ## Approach
 
-- **Class Imbalance Handling:** Applied SMOTE (Synthetic Minority Over-sampling Technique) and other resampling strategies to balance training data
-- **Algorithm Selection:** Implemented Logistic Regression (baseline), Decision Trees (interpretability), and Random Forest (ensemble performance)
-- **Feature Engineering:** Prepared and normalized transaction features for optimal model performance
-- **Model Evaluation:** Used precision, recall, F1-score, and AUC-ROC metrics to assess classification quality
+- **Dataset Analysis:** Analyzed 6.3M financial transaction records to understand fraud patterns and class distribution
+- **Class Imbalance Handling:** Applied SMOTE, random oversampling, and under-sampling techniques to address the highly imbalanced dataset
+- **Algorithm Comparison:** Built and compared three supervised learning models—Logistic Regression, Decision Tree, and Random Forest
+- **Model Evaluation:** Assessed performance using precision, recall, F1-score, and AUC-ROC metrics to identify the best model
+- **Optimization:** Fine-tuned hyperparameters to maximize fraud detection while minimizing false positives
 
 ## Tech Stack
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `SMOTE` `Machine Learning` `Classification`
+`Python` `pandas` `NumPy` `Scikit-learn` `Matplotlib` `Imbalanced-learn`
 
-## Key Outcome
+## Key Results
 
-Successfully built a production-ready fraud detection pipeline with robust performance on imbalanced transaction data, demonstrating mastery of ensemble methods and class imbalance handling techniques.
+- **Highest Performance:** Random Forest with oversampling achieved **99.98% accuracy**
+- **Key Finding:** Class-balancing strategies are critical for effective fraud detection in imbalanced datasets
+- **Model Insights:** Demonstrated the trade-off between precision and recall across different resampling techniques
 
-## GitHub Repository
+## Detailed Analysis
 
-[View on GitHub](link coming soon)
+[View Manuscript PDF](/assets/slides/manuscript.pdf){: .btn .btn--info}
 
 ---
 
-**Year:** 2024  
-**Mentor:** Mr. Touch Sopheak  
+**Dataset:** 6.3M transactions  
+**Fraud Rate:** 0.13%  
+**Date:** October 12, 2025  
 **Status:** Completed

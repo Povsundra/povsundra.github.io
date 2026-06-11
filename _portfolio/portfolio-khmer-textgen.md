@@ -15,10 +15,10 @@ Built a full-stack web application that uses a custom-trained LSTM model to gene
 
 ## GitHub Repository
 
-[View on GitHub](https://github.com/phoeurnkimhor/khmer-textgen-web)
+[View on GitHub](https://github.com/Povsundra/khmer-tst-web)
 
 ---
 
 **Year:** 2025  
 **Status:** Completed  
-**Project Type:** Final Project (NLP Subject)
+**Project Type:** Final Project (NLP Subject)- Group Project
