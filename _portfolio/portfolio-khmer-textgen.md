@@ -2,7 +2,7 @@
 title: "LSTM-based Khmer Text Style Transfer"
 excerpt: "Sequence-to-sequence LSTM model with attention mechanism to transfer Khmer text between linguistic registers (normal to royal) while preserving semantic content."
 collection: portfolio
-date: 2025-05-29
+date: 2026-01-02
 header:
   teaser: /assets/images/portfolio-khmer-textgen-teaser.jpg
 ---
