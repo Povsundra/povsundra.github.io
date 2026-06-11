@@ -31,7 +31,7 @@ Businesses need to understand their customer base to develop targeted marketing 
 
 ## Presentation
 
-<embed src="{{ site.url }}/assets/slides/Customer_Segmentation_Analysis.pdf" type="application/pdf" width="100%" height="600px">
+[View Presentation PDF](/assets/slides/Customer_Segmentation_Analysis.pdf){: .btn .btn--info}
 
 ---
 
