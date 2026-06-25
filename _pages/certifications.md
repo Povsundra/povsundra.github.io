@@ -73,6 +73,14 @@ In-depth workshop on Linear Algebra, Real Analysis, and Topology concepts taught
 
 ## Volunteer & Community Service
 
+### Digital Literacy Program Trainer
+
+![Digital Literacy Trainer Certificate](/images/certificates/volunteer-certificates/digital_literacy.jpg)
+
+**Digital Literacy Program Trainer**  
+*Ministry of Education | Mar 2025 – Present*  
+Trained 300+ students from 4 high schools on digital tools, online safety, and data security.
+
 ### ASEAN Conference Volunteer
 
 ![ASEAN Conference Certificate](/images/certificates/volunteer-certificates/ASEAN_conference.jpg)
