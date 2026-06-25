@@ -26,5 +26,6 @@ package-lock.json
 data_analyst_cv.html
 data_analyst_cv.pdf
 
-# ignire README.md file
-README.md 
+# Ignore private CV files
+wing_bank_cv.html
+wing_bank_cv.pdf
