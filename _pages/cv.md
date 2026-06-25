@@ -24,6 +24,12 @@ Certifications
 
 Work Experience
 ======
+* **Data Scientist ** · Electricité du Cambodge (EDC) · EDC-AFD-EU Project
+  * March 2026 – Present 
+  * Engineered a **multi-stage hybrid feature selection framework** combining Pearson correlation, Mutual Information, Permutation Importance, and SHAP across 3 model families, reducing input dimensionality from **158 to 18 features** without sacrificing predictive accuracy
+  * Built and validated a **meta-stacking ensemble** (RF, XGB, SVR, MLP base models + Linear Regression meta-learner) using rolling-year temporal cross-validation across 4 folds, achieving a final forecast MAPE on the held-out test set
+  * Deployed a **full-stack forecasting platform** (FastAPI + React + PostgreSQL + Docker) on internal infrastructure, enabling non-technical operators to generate, visualise, and export multi-model ensemble forecasts through a role-based dashboard
+
 
 * **Data Analyst Intern** · General Secretariat of National Council for Minimum Wage
   * Aug – Oct 2025 · Ministry of Labour and Vocational Training
@@ -31,12 +37,6 @@ Work Experience
   * Transformed semi-structured data into structured datasets stored in a centralized **data warehouse**, supporting daily and monthly reporting cycles
   * Conducted in-depth analysis on large-scale economic datasets to uncover key trends and insights for policy research
   * Built **3 interactive Power BI dashboards** adopted by the research team for ongoing stakeholder reporting and decision support
-
-* **Data Scientist Intern** · Electricité du Cambodge (EDC)
-  * March 2025 – Present 
-  * Engineered a **multi-stage hybrid feature selection framework** combining Pearson correlation, Mutual Information, Permutation Importance, and SHAP across 3 model families, reducing input dimensionality from **158 to 18 features** without sacrificing predictive accuracy
-  * Built and validated a **meta-stacking ensemble** (RF, XGB, SVR, MLP base models + Linear Regression meta-learner) using rolling-year temporal cross-validation across 4 folds, achieving a final forecast MAPE on the held-out test set
-  * Deployed a **full-stack forecasting platform** (FastAPI + React + PostgreSQL + Docker) on internal infrastructure, enabling non-technical operators to generate, visualise, and export multi-model ensemble forecasts through a role-based dashboard
 
 
 Technical Skills
